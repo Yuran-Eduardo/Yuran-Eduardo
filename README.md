@@ -5,7 +5,15 @@ Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, 
 
 <h1> 🛠 Tech Stack </h1>
 <hr>
-<p><img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </p>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>
+</p>
 
 <p><link type="image/png" sizes="96x96" rel="icon" href=".../icons8-adobe-photoshop-96.png"></p>
