@@ -13,8 +13,8 @@ Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, 
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/django.png"/>
-  <img src="https://img.icons8.com/ios/50/000000/flask.png"/>
- <img src="https://img.icons8.com/ios/50/000000/api-settings.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/flask.png"/>
+<img src="https://img.icons8.com/ios/50/000000/api-settings.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
