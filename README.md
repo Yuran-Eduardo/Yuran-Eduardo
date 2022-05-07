@@ -14,6 +14,8 @@ Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, 
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  -
 </p>
 
 <p><link type="image/png" sizes="96x96" rel="icon" href=".../icons8-adobe-photoshop-96.png"></p>
