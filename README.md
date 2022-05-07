@@ -5,4 +5,5 @@ Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, 
 
 <h1> 🛠 Tech Stack </h1>
 <hr>
+<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 <p><link type="image/png" sizes="96x96" rel="icon" href=".../icons8-adobe-photoshop-96.png"></p>
