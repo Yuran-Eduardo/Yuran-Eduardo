@@ -24,6 +24,7 @@ Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, 
 <h1> 👨🏽‍🦲 Social Links</h1>
 
 <p>
+    <a href="yuran415@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
    <a href="https://twitter.com/yuraned"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
     <a href="https://www.linkedin.com/in/yuran-eduardo-00902521a"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="https://snapto.link/yuraneduardo"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-projects-social-media-agency-flaticons-lineal-color-flat-icons.png"/></a>
