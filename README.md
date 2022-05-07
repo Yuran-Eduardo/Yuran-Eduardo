@@ -1,3 +1,3 @@
 # YuranEduardo
 My personal information
-Hi there, I'm a teenager, youtuber, otaku, nerd and front-end developer, I like so much programming, now I'm learning ReactJS. You can help me acessing my repos and giving your feedback. I want to work with other people and grow up, if you are looking for someone you can touch me, I'll be so happy to help you.
+Hi there, I'm Software Engineer, student, nerd and fullstack developer, now I'm learning Django to backend and javascript to help me in client side. You can help me acessing my repos and giving your feedback.
