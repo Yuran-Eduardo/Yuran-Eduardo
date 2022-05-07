@@ -1,6 +1,6 @@
 #YURAN-EDUARDO
 
-Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, now I'm working Django to backend and javascript frameworks(react) to help me in client side. You can help me acessing my repos and giving your feedback.
+Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, now I'm with working Django to backend and javascript frameworks(react) to help me in client side. You can help me acessing my repos and giving your feedback.
 
 
 <h1> 🛠 Tech Stack </h1>
@@ -22,4 +22,6 @@ Hi there, I'm Software Engineer, student, nerd😁😁 and fullstack developer, 
 </p>
 <h1> 👨🏽‍🦲 Social Links</h1>
 
-
+<p>
+   <a href="https://twitter.com/yuraned"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+</p>
