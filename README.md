@@ -10,9 +10,7 @@ Hi there, I'm Android Developer.
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>
-   
-   <img src=""/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/django.png"/>
