@@ -1,6 +1,6 @@
 #YURAN-EDUARDO
 
-Hi there, I'm Software Engineer, student, nerd😁😁, now I'm working with Java and Django to Backend and javascript frameworks(react) to help me in the Frontend. You can help me acessing my repos and giving your feedback.
+Hi there, I'm Android Developer.
 
 
 <h1> 🛠 Tech Stack </h1>
