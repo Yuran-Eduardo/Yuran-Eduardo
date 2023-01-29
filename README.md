@@ -11,11 +11,12 @@ Hi there, I'm Android Developer.
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <!– <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/django.png"/>
  <img src="https://img.icons8.com/fluency/48/000000/flask.png"/>
-<img src="https://img.icons8.com/ios/50/000000/api-settings.png"/>
+<img src="https://img.icons8.com/ios/50/000000/api-settings.png"/> –>
+   
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
