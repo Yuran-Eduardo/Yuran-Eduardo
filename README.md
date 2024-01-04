@@ -1,6 +1,6 @@
 #YURAN-EDUARDO
 
-Hi there, I'm Android Developer.
+Hi there, I'm Software Developer.
 
 
 <h1> 🛠 Tech Stack </h1>
