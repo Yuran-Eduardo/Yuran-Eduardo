@@ -1,6 +1,7 @@
 #YURAN-EDUARDO
 
-Hi there, I'm Software Developer.
+Hi there, I'm Yuran Eduardo👋.
+A Software Engineer Based in Europe🌍!
 
 
 <h1> 🛠 Tech Stack </h1>
