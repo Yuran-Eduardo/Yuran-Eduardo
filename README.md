@@ -1,6 +1,7 @@
 #YURAN-EDUARDO
 
 Hi there, I'm Yuran Eduardo👋.
+<br>
 A Software Engineer Based in Europe🌍!
 
 
