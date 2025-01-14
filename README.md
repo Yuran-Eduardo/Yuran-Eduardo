@@ -15,7 +15,7 @@ A Software Engineer Based in Europe🌍!
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/ios-glyphs/60/000000/figma.png"/> 
 </p>
-<h1> 👨🏽‍🦲 Social Links</h1>
+<h1> 👨🏾‍💻 Social Links</h1>
 
 <p>
     <a href="yuran415@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
