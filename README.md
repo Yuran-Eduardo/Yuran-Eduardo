@@ -13,6 +13,7 @@ A Software Engineer Based in Europe🌍!
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img width="48" height="48" src="https://img.icons8.com/ios/50/network--v1.png" alt="network--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
   <img width="48" height="48" src="https://img.icons8.com/ios/50/cloud-computing.png" alt="cloud-computing"/>
   <img src="https://img.icons8.com/ios-glyphs/60/000000/figma.png"/> 
 </p>
