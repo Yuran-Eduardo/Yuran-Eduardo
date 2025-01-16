@@ -10,18 +10,17 @@ A Software Engineer Based in Europe🌍!
 <p>
   <img width="29" height="29" src="https://img.icons8.com/color/29/kotlin.png" alt="kotlin"/>
   <!--- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>   -->
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/ios/50/network--v1.png" alt="network--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
-  <img width="48" height="48" src="https://img.icons8.com/ios/50/cloud-computing.png" alt="cloud-computing"/>
+  <img width="29" height="29" src="https://img.icons8.com/color/29/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+   <img width="29" height="29" src="https://img.icons8.com/color/29/mysql-logo.png" alt="mysql-logo"/>
+   <img width="29" height="29" src="https://img.icons8.com/color/29/mysql-logo.png" alt="mysql-logo"/>
+  <img width="29" height="29" src="https://img.icons8.com/color/29/kubernetes.png" alt="kubernetes"/>
+  <img width="29" height="29" src="https://img.icons8.com/pulsar-gradient/29/cloud-computing.png" alt="cloud-computing"/>
   <img src="https://img.icons8.com/ios-glyphs/60/000000/figma.png"/> 
 </p>
 <h1> 👨🏾‍💻 Social Links</h1>
 
 <p>
-    <a href="yuran415@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+    <a href="yuran415@gmail.com"><img width="29" height="29" src="https://img.icons8.com/color/29/gmail-new.png" alt="gmail-new"/></a>
    <!--- <a href="https://twitter.com/yuraned"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
     <a href="https://twitter.com/yuraned"><img width="50" height="50" src="https://img.icons8.com/ios/50/twitterx--v1.png" alt="twitterx--v1"/></a>
     <a href="https://www.linkedin.com/in/yuran-eduardo-00902521a"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
