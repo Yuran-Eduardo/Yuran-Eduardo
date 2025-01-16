@@ -8,8 +8,8 @@ A Software Engineer Based in Europe🌍!
 <h1> 🛠 Tech Stack </h1>
 
 <p>
-  <img width="20" height="20" src="https://img.icons8.com/color/20/kotlin.png" alt="kotlin"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>   
+  <img width="29" height="29" src="https://img.icons8.com/color/29/kotlin.png" alt="kotlin"/>
+  <!--- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>   -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
