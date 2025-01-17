@@ -14,6 +14,7 @@ A Software Engineer Based in Europe🌍!
    <img width="29" height="29" src="https://img.icons8.com/color/29/mysql-logo.png" alt="mysql-logo"/>
   <img width="29" height="29" src="https://img.icons8.com/color/29/kubernetes.png" alt="kubernetes"/>
   <img width="29" height="29" src="https://img.icons8.com/pulsar-gradient/29/cloud-computing.png" alt="cloud-computing"/>
+   <img width="29" height="29" src="https://img.icons8.com/fluency/29/docker.png" alt="docker"/>
   <img width="29" height="29" src="https://img.icons8.com/officel/29/api-settings.png" alt="api-settings"/>
   
    <!--- <img src="https://img.icons8.com/ios-glyphs/60/000000/figma.png"/> -->
