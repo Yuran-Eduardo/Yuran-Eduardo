@@ -23,10 +23,8 @@ A Software Engineer Based in Europe🌍!
 
 <p>
     <a href="yuran415@gmail.com"><img width="29" height="29" src="https://img.icons8.com/color/29/gmail-new.png" alt="gmail-new"/></a>
-   <!--- <a href="https://twitter.com/yuraned"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
-   <p> 
-    <a href="https://twitter.com/yuraned"><img width="29" height="29" src="https://img.icons8.com/ios/29/twitterx--v1.png" alt="twitterx--v1"/></a>
+   <a href="https://twitter.com/yuraned"><img width="29" height="29" src="https://img.icons8.com/ios/29/twitterx--v1.png" alt="twitterx--v1"/></a>
     <a href="https://www.linkedin.com/in/yuran-eduardo-00902521a"><img width="29" height="29" src="https://img.icons8.com/fluency/29/linkedin.png" alt="linkedin"/></a>
     <a href="https://snapto.link/yuraneduardo"><img width="29" height="29" src="https://img.icons8.com/color/29/domain--v1.png" alt="domain--v1"/></a>
-   </p>
+   <!--- <a href="https://twitter.com/yuraned"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
 </p>
