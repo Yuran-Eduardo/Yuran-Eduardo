@@ -16,13 +16,14 @@ A Software Engineer Based in Europe🌍!
   <img width="29" height="29" src="https://img.icons8.com/pulsar-gradient/29/cloud-computing.png" alt="cloud-computing"/>
    <img width="29" height="29" src="https://img.icons8.com/fluency/29/docker.png" alt="docker"/>
   <img width="29" height="29" src="https://img.icons8.com/officel/29/api-settings.png" alt="api-settings"/>
-  
+
    <!--- <img src="https://img.icons8.com/ios-glyphs/60/000000/figma.png"/> -->
 </p>
 <h2> 👨🏾‍💻 Social Links</h2>
 
 <p>
     <a href="yuran415@gmail.com"><img width="29" height="29" src="https://img.icons8.com/color/29/gmail-new.png" alt="gmail-new"/></a>
+   <!--- <a href="https://twitter.com/yuraned"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
    
     <a href="https://twitter.com/yuraned"><img width="29" height="29" src="https://img.icons8.com/ios/29/twitterx--v1.png" alt="twitterx--v1"/></a>
     <a href="https://www.linkedin.com/in/yuran-eduardo-00902521a"><img width="29" height="29" src="https://img.icons8.com/fluency/29/linkedin.png" alt="linkedin"/></a>
